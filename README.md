@@ -32,7 +32,7 @@ Ohio State University (OSU.
 10.	Enhance programming and mathematical analysis skills.
 
 ## Syllabus:
-The class syllabus can be found here [Download syllabus (PDF)](ME6193-Syllabus.pdf)
+The class syllabus can be found here [Download syllabus (PDF)](Syllabuses/ME6193-Syllabus.pdf)
 
 
 ## Projects:
