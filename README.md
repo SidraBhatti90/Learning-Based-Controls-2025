@@ -14,10 +14,15 @@ Department of Integrated Systems Engineering,
 Affiliated Faculty: Center for Automotive Research, Smart Vehicle Concepts Center, Sustainability Institute and Institute of Cybersecurity and Digital Trust.
 
 ## Course Assistants:
-Dr. Sidra Ghayour Bhatti
-Research Associate Engineer,
-Center for automotive Research (CAR),
-Ohio State University (OSU.
+**Dr. Sidra Ghayour Bhatti**  
+Research Associate Engineer 
+
+
+Center for Automotive Research (CAR)  
+
+
+The Ohio State University (OSU)
+
 
 ## Course Objectives: 
 1.	Develop the motivation for bridging the gap between conventional control theory and learning techniques.
