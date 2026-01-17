@@ -35,7 +35,8 @@ Ohio State University (OSU.
 The class syllabus can be found here [Download syllabus (PDF)](ME6193-Syllabus.pdf)
 
 
-# Projects:
+## Projects:
+later...
 
 
 
