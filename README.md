@@ -41,7 +41,7 @@ The class syllabus can be found here [Download syllabus (PDF)](Syllabuses/ME6193
 ## Products:
 **Software:** MATLAB 2025a, 2025b; Simulink; Control System Toolbox™; Reinforcement Learning Toolbox™; System Identification Toolbox™; Simscape™; Deep Learning Toolbox™; Python: PyTorch, TensorFlow/Keras, Stable Baselines3, RLlib, Gymnasium, PettingZoo ; CARLA; SUMO (traffic); etc.
 
-## Awesome Learning based Controls
+## Awesome Learning based Controls:
 Learning-Based Controls is an emerging field at the intersection of control theory for dynamic systems and modern machine learning (deep learning and reinforcement learning), and this repository curates key resources, topics, tutorials, research articles, applications, and tools in that area. 
 - Awesome Learning-Based Controls repository: [GitHub link](https://github.com/jgreen020/awesome-learning-based-controls)
 
