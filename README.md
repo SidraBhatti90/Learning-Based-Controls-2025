@@ -17,12 +17,12 @@ Smart Vehicle Concepts Center
 Sustainability Institute  
 Institute of Cybersecurity and Digital Trust
 
+## Instructors
 
-
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <div>
-    <strong>Dr. Qadeer Ahmed</strong>  
+    <strong>Dr. Qadeer Ahmed</strong> ([ahmed.358@osu.edu](mailto:ahmed.358@osu.edu))  
     Assistant Professor  
     Department of Mechanical and Aerospace Engineering  
     Department of Electrical and Computer Engineering  
@@ -31,8 +31,6 @@ Institute of Cybersecurity and Digital Trust
     Smart Vehicle Concepts Center  
     Sustainability Institute  
     Institute of Cybersecurity and Digital Trust  
-    <br>
-    <a href="mailto:ahmed.358@osu.edu">ahmed.358@osu.edu</a>
   </div>
 
   <div>
@@ -40,6 +38,8 @@ Institute of Cybersecurity and Digital Trust
   </div>
 
 </div>
+
+
 
 ## Course Assistant:
 **Dr. Sidra Ghayour Bhatti** ([bhatti.39@osu.edu](mailto:bhatti.39@osu.edu))  
