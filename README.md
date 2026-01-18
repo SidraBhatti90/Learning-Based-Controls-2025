@@ -14,7 +14,7 @@ Department of Integrated Systems Engineering,
 Affiliated Faculty: Center for Automotive Research, Smart Vehicle Concepts Center, Sustainability Institute and Institute of Cybersecurity and Digital Trust.
 
 **Dr. Qadeer Ahmed** ([ahmed.358@osu.edu](mailto:ahmed.358@osu.edu))  
-**Assistant Professor**  
+Assistant Professor  
 Department of Mechanical and Aerospace Engineering  
 Department of Electrical and Computer Engineering  
 Department of Integrated Systems Engineering  
