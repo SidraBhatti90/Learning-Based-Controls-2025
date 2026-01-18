@@ -18,8 +18,9 @@ Sustainability Institute
 Institute of Cybersecurity and Digital Trust
 
 ## Instructors
+## Instructors
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display:flex; align-items:flex-start; gap:20px;">
 
   <div>
     <strong>Dr. Qadeer Ahmed</strong> ([ahmed.358@osu.edu](mailto:ahmed.358@osu.edu))  
@@ -34,10 +35,11 @@ Institute of Cybersecurity and Digital Trust
   </div>
 
   <div>
-    <img src="QadeerAhmed.jpg" alt="Dr. Qadeer Ahmed" style="width:180px; border-radius:8px;">
+    <img src="qadeerAhmed.jpg" alt="Dr. Qadeer Ahmed" style="width:180px; border-radius:8px;">
   </div>
 
 </div>
+
 
 
 
