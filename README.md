@@ -6,7 +6,7 @@
 This course explores the synergy between control theory and machine learning, enabling students to design learning-based control systems ensuring adaptability, robustness, stability, and safety. The course focuses on integrating data-driven methods with traditional control techniques to create innovative solutions for real-world applications such as autonomous systems, robotics, advanced manufacturing systems, chemical systems, etc. It applies theoretical concepts to practical engineering problems, incorporating research from past and ongoing projects into the course material, assignments, and an open-ended project. The methods aim to enhance adaptability and decision-making in dynamical systems including autonomous vehicles and robotics.
 
 ## Instructor: 
-![Dr. Qadeer Ahmed](qadeer_ahmed.jpg)
+![Dr. Qadeer Ahmed](QadeerAhmed.jpg)
 **Dr. Qadeer Ahmed** ([ahmed.358@osu.edu](mailto:ahmed.358@osu.edu))  
 Assistant Professor  
 Department of Mechanical and Aerospace Engineering  
