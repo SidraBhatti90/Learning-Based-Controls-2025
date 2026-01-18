@@ -83,7 +83,7 @@ The Ohio State University (OSU)
 ## Course Objectives: 
 1.	Develop the motivation for bridging the gap between conventional control theory and learning techniques.
 2.	Understand the concept of ISO/PAS 8800 to ensure the safety of learning-based control solutions.
-3.	Understand and apply advanced RL methods, including model-free and model-based, online versus offline, policy vs knowledge distillation, Transformer-based, MPC-integrated, and meta-RL. (e.g. TD3, DDPG, SAC, PPO, TADPO ).
+3.	Understand and apply advanced RL methods (e.g. DDQN, DTQN, TD3, DDPG, SAC, PPO, TADPO, GRPO), including model-free and model-based, online versus offline, on-policy versus off-policy RL, knowledge distillation, Transformer-based RL, MPC-integrated RL, and meta-RL. 
 4.	Explore RL for learning cost functions and constraints in MPC, gain tuning for controllers (PID, LQR), and safe RL with MPC.
 5.	Explore and implement advanced neural architectures including Spiking NN (SNN), Liquid NN (LNNs), graph NNs (GNNs), etc. for control tasks.
 6.	Develop the understanding of Foundation models and World models including Artificial General intelligence (AGI) for dynamical system and controls.
