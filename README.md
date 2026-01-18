@@ -83,10 +83,11 @@ The Ohio State University (OSU)
 ## Course Objectives: 
 1.	Develop the motivation for bridging the gap between conventional control theory and learning techniques.
 2.	Understand the concept of ISO/PAS 8800 to ensure the safety of learning-based control solutions.
-3.	Understand and apply advanced RL methods (e.g. DDQN, DTQN, TD3, DDPG, SAC, PPO, TADPO, GRPO), including model-free and model-based, online versus offline, on-policy versus off-policy RL, knowledge distillation, Transformer-based RL, MPC-integrated RL, and meta-RL. 
-4.	Explore RL for learning cost functions and constraints in MPC, gain tuning for controllers (PID, LQR), and safe RL with MPC.
-5.	Explore and implement advanced neural architectures including Spiking NN (SNN), Liquid NN (LNNs), graph NNs (GNNs), etc. for control tasks.
-6.	Develop the understanding of Foundation models and World models including Artificial General intelligence (AGI) for dynamical system and controls.
+3.	Explore and implement advanced neural architectures including Spiking NN (SNN), Liquid NN (LNNs), graph NNs (GNNs), etc. for control tasks.
+4.	Develop the understanding of Foundation and World models including Artificial General intelligence (AGI) for dynamical system and controls.
+5. Understand and apply advanced RL methods (e.g. DDQN, DTQN, TD3, DDPG, SAC, PPO, TADPO, GRPO), including model-free and model-based, online versus offline, on-policy versus off-policy RL, knowledge distillation,
+   Transformer-based RL, MPC-integrated RL, and meta-RL. 
+6.	Explore RL for learning cost functions and constraints in MPC, gain tuning for controllers (PID, LQR), and safe RL with MPC.
 7.	Utilize GANs, physics-informed methods, and Koopman operator for accurate system identification and dynamics modeling.
 8.	Apply control theories like contraction theory and region of attraction (ROA) to ensure stability, robustness, or safety in learning-based systems.
 9.	Develop the learning-based controller and perform its stability analysis using quadratic constraints and ROA.
