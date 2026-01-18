@@ -79,9 +79,23 @@ The Ohio State University (OSU)
 
 
 ## Syllabus:
-The class syllabus can be found here [Download syllabus (PDF)](Syllabuses/ME7194-Syllabus.pdf)
+The class syllabus can be found here [Download syllabus (PDF)](Syllabuses/ME7194_Syllabus.pdf)
 
 
 ## Projects:
-later...
+1. Deep Transformer Q-Network for Energy Management Strategy for Series Hybrid Agricultural Tractor
+2. DQN-Driven Fusion of Heterogeneous Experts for Intrusion Detection System
+3. Hierarchical Deep Reinforcement Learning-Based Maneuver Decision-Making for Autonomous Driving
+4. Synthetic Data generation for cross-task generalization in Vision-Language-action models
+5. Vision action language Foundation Models for General-Purpose Robotics
+6. A Hybrid Reinforcement Learning and CLF-CBF-QP Framework for Safe Autonomous Vehicle Navigation
+7. Learning Structured Skills for Bipedal Navigation via Mixture-of-Experts Decision Transformer
+8. Learning-Based Powertrain Control for Electrified Powertrains with Integrated Aging of Battery, and Aftertreatment System
+9. Traction Electric Machine Speed Synchronization Under Uneven Torque Allocation for Heavy Duty Electric Vehicle
+10. Deep Koopman Operator Autoencoder Learning for 5-link-walker RABBIT
+11. Quantum Machine Learning for Transportation System Optimization
+12. End-to-end Learning Based Autonomous Vehicle Control via Reinforcement Learning
+13. Safe controller for autonomous driving
+14. Stuart–Landau Actor (SLA): Dynamical Weight Updates for Efficient Exploration in Control Tasks
+
 
