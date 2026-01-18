@@ -36,7 +36,7 @@ Institute of Cybersecurity and Digital Trust
   </div>
 
   <div>
-    <img src="qadeerAhmed.jpg" alt="Dr. Qadeer Ahmed" style="width:180px; border-radius:8px;">
+    <img src="QadeerAhmed.jpg" alt="Dr. Qadeer Ahmed" style="width:180px; border-radius:8px;">
   </div>
 
 </div>
