@@ -37,6 +37,9 @@ The Ohio State University (OSU)
 ## Syllabus:
 The class syllabus can be found here [Download syllabus (PDF)](Syllabuses/ME6193-Syllabus.pdf)
 
+## Products:
+**Software:** MATLAB 2024a; Simulink; Control System Toolbox™; Simulink Control Design™; Reinforcement Learning Toolbox™; System Identification Toolbox™; Simscape™; Simscape Multibody™; Simscape Electrical™; Curve Fitting Toolbox™; Deep Learning Toolbox™; Signal Processing Toolbox™; Aerospace Toolbox™.
+
 
 ## Projects:
 1. Freeform Surface Reconstruction and Adaptive Sampling through Machine Learning for Applications in Minimally-Invasive In-Vivo Bioprinting
