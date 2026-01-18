@@ -24,13 +24,11 @@ Institute of Cybersecurity and Digital Trust
 
 ## Course Assistants:
 **Dr. Sidra Ghayour Bhatti**  
-Research Associate Engineer 
-
-
+ 
+Research Associate Engineer  
 Center for Automotive Research (CAR)  
-
-
 The Ohio State University (OSU)
+
 
 
 ## Course Objectives: 
