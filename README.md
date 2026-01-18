@@ -38,7 +38,7 @@ The Ohio State University (OSU)
 The class syllabus can be found here [Download syllabus (PDF)](Syllabuses/ME6193-Syllabus.pdf)
 
 ## Products:
-**Software:** MATLAB 2025a,2025b; Simulink; Control System Toolbox™; Reinforcement Learning Toolbox™; System Identification Toolbox™; Simscape™; Deep Learning Toolbox™; Python: PyTorch, TensorFlow/Keras, Stable Baselines3, RLlib, Gymnasium, PettingZoo.
+**Software:** MATLAB 2025a, 2025b; Simulink; Control System Toolbox™; Reinforcement Learning Toolbox™; System Identification Toolbox™; Simscape™; Deep Learning Toolbox™; Python: PyTorch, TensorFlow/Keras, Stable Baselines3, RLlib, Gymnasium, PettingZoo ; CARLA; SUMO (traffic); etc.
 
 
 ## Projects:
