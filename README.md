@@ -57,7 +57,7 @@ Smart Vehicle Concepts Center
 Sustainability Institute  
 Institute of Cybersecurity and Digital Trust
 
-## Course Assistants:
+## Course Assistants: ([bhatti.39@osu.edu](mailto:bhatti.39@osu.edu))  
 **Dr. Sidra Ghayour Bhatti**  
  Research Associate Engineer  
 Center for Automotive Research (CAR)  
