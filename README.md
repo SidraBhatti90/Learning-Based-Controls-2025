@@ -5,7 +5,7 @@
 ## Course Description:
 This course explores the synergy between control theory and machine learning, enabling students to design learning-based control systems ensuring adaptability, robustness, stability, and safety. The course focuses on integrating data-driven methods with traditional control techniques to create innovative solutions for real-world applications such as autonomous systems, robotics, advanced manufacturing systems, chemical systems, etc. It applies theoretical concepts to practical engineering problems, incorporating research from past and ongoing projects into the course material, assignments, and an open-ended project. The methods aim to enhance adaptability and decision-making in dynamical systems including autonomous vehicles and robotics.
 
-## Instructors: 
+## Instructor: 
 **Dr. Qadeer Ahmed** ([ahmed.358@osu.edu](mailto:ahmed.358@osu.edu))  
 Assistant Professor  
 Department of Mechanical and Aerospace Engineering  
@@ -16,7 +16,7 @@ Smart Vehicle Concepts Center
 Sustainability Institute  
 Institute of Cybersecurity and Digital Trust
 
-## Course Assistants:
+## Course Assistant:
 **Dr. Sidra Ghayour Bhatti** ([bhatti.39@osu.edu](mailto:bhatti.39@osu.edu))  
  Research Associate Engineer  
 Center for Automotive Research (CAR)  
@@ -39,14 +39,23 @@ The class syllabus can be found here [Download syllabus (PDF)](Syllabuses/ME6193
 
 
 ## Projects:
-later...
-
+1. Freeform Surface Reconstruction and Adaptive Sampling through Machine Learning for Applications in Minimally-Invasive In-Vivo Bioprinting
+2. Double DQN Energy Management strategy for a Series Hybrid Agricultural Tractor
+3. Industrial Scale Reverse Osmosis Modeling and Control
+4. Deep Koopman Operator Autoencoder Learning for Pendulum System
+5. SafeNN: A Neural Network Controller for Safe Autonomous Driving
+6. A Neural-Forecasting-Driven MPC Framework for Two-Intersection Traffic Signal Control
+7. Physics Informed Neural Network based Parameter Estimation of Permanent Magnet Synchronous Machine
+8. Energy-Efficient Powertrain Control Using Reinforcement Learning with Battery Aging Integration
+9. Temporal Dependency Based Soft Actor-Critic for Engine Control in Series Hybrid Electric Vehicles
+10. Bipedal Locomotion on Terrains with Restricted Footholds
 
 ## MECHENG 7194: Autumn 2025
 
 ## Course Description:
 This advanced course bridges control theory and modern learning (AI/ML/RL), covering model-free/model-based RL, offline vs online learning, transformer-based and MPC-integrated methods, and meta-RL with a strong emphasis on safety (ISO/PAS 8800). It introduces RL for cost-function learning, controller gain tuning, and safe MPC alongside advanced architectures such as liquid neural networks, graph neural networks/GATs, foundation and world models. It also covers GANs, physics-informed techniques, and Koopman-based system identification, together with contraction theory and region-of-attraction concepts for stability and safety. Explainability, interpretability, and trustworthiness of black-box ML/RL controllers are emphasized through theory and project-based applications in autonomous and cyber-physical systems.
 
+## Instructor: 
 **Dr. Qadeer Ahmed** ([ahmed.358@osu.edu](mailto:ahmed.358@osu.edu))  
 Assistant Professor  
 Department of Mechanical and Aerospace Engineering  
@@ -57,7 +66,7 @@ Smart Vehicle Concepts Center
 Sustainability Institute  
 Institute of Cybersecurity and Digital Trust
 
-## Course Assistants: 
+## Course Assistant: 
 **Dr. Sidra Ghayour Bhatti** ([bhatti.39@osu.edu](mailto:bhatti.39@osu.edu))  
  Research Associate Engineer  
 Center for Automotive Research (CAR)  
