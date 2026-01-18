@@ -50,7 +50,7 @@ The class syllabus can be found here [Download syllabus (PDF)](Syllabuses/ME6193
 9. Temporal Dependency Based Soft Actor-Critic for Engine Control in Series Hybrid Electric Vehicles
 10. Bipedal Locomotion on Terrains with Restricted Footholds
 
-## MECHENG 7194: Autumn 2025
+## MECHENG 7194: Autumn 2025 (Advanced Version)
 
 ## Course Description:
 This advanced course bridges control theory and modern learning (AI/ML/RL), covering model-free/model-based RL, offline vs online learning, transformer-based and MPC-integrated methods, and meta-RL with a strong emphasis on safety (ISO/PAS 8800). It introduces RL for cost-function learning, controller gain tuning, and safe MPC alongside advanced architectures such as liquid neural networks, graph neural networks/GATs, foundation and world models. It also covers GANs, physics-informed techniques, and Koopman-based system identification, together with contraction theory and region-of-attraction concepts for stability and safety. Explainability, interpretability, and trustworthiness of black-box ML/RL controllers are emphasized through theory and project-based applications in autonomous and cyber-physical systems.
